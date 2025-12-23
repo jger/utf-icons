@@ -357,5 +357,4 @@
 | 🇺🇳<br>United Nations | 🇺🇸<br>United States | 🇺🇾<br>Uruguay | 🇺🇿<br>Uzbekistan | 🇻🇦<br>Vatican City | 🇻🇨<br>St. Vincent & Grenadines |
 | 🇻🇪<br>Venezuela | 🇻🇬<br>British Virgin Islands | 🇻🇮<br>U.S. Virgin Islands | 🇻🇳<br>Vietnam | 🇻🇺<br>Vanuatu | 🇼🇫<br>Wallis & Futuna |
 | 🇼🇸<br>Samoa | 🇽🇰<br>Kosovo | 🇾🇪<br>Yemen | 🇾🇹<br>Mayotte | 🇿🇦<br>South Africa | 🇿🇲<br>Zambia |
-| 🇿🇼<br>Zimbabwe | 🏴<br>England | 🏴<br>Scotland | 🏴<br>Wales |  |  |
-
+| 🇿🇼<br>Zimbabwe | 🏴󠁧󠁢󠁥󠁮󠁧󠁿<br>England | 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br>Scotland | 🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>Wales |  |  |
